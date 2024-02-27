@@ -3,7 +3,7 @@
 <h3 align="center">A passionate FullStack Developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyogyAAWJt16iw-B4lzlUEvIulEVWZgNIdOg&usqp=CAU">
 
-- 🔭 I’m currently working on **an ecommerce website**
+- 🔭 I’m currently working on **[LifePlus - A Blood Donation App](https://life-plus-webapp.vercel.app/)**
 
 - 🌱 I’m currently learning **Reactjs**
 
