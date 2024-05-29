@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **[LifePlus - A Blood Donation App](https://life-plus-webapp.vercel.app/)**
 
-- 🌱 I’m currently learning **Reactjs, Nodejs, TailwindCss, Sass**
+- 🌱 I’m a seasoned **software developer**
 
-- 💬 I'm upskilling with NextJs and Typescript 
+- 💬 I'm upskilling by learning Data Science/Machine Learning
 
 - 📫 How to reach me **oreoluwaajayyiruth@gmail.com**
 
