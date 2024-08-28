@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **[LifePlus - A Blood Donation App](https://life-plus-webapp.vercel.app/)**
 
-- 🌱 I’m a seasoned **software developer**
+- 🌱 I’m a seasoned **software developer proficient in Reactjs, Nextjs, Tailwindcss, Sass, Javascript, and Typescript**
 
 - 💬 I'm upskilling by learning Data Science/Machine Learning
 
